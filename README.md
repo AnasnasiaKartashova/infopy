@@ -1,1 +1,1 @@
-This is a simple site with three endpoints.
+This is a simple site with four endpoints.
